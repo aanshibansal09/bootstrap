@@ -1,0 +1,47 @@
+.hero {
+    background-image: url("https://media.istockphoto.com/id/1392494719/photo/woman-with-pink-suitcase-and-passport-with-boarding-pass-standing-on-passengers-ladder-of.jpg?s=612x612&w=0&k=20&c=MVUZvIdaUmvRKdG-B5EEGGkIVFj51jss-b6IkxqY3fg="); /* Add background image here */
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 500px; /* Set height of hero section */
+   
+    padding: 100px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff; /* Set text color to white */
+}
+.display-3{
+    color:black;
+}
+.lead{
+    color:black;
+}
+.card {
+    margin-bottom: 20px;
+}
+
+.card-img-top {
+    height: 150px;
+    object-fit: cover;
+}
+
+.card-body {
+    padding: 20px;
+}
+
+.card-title {
+    font-weight: bold;
+}
+
+.card-text {
+    font-size: 16px;
+    color: #666;
+}
+
+.footer {
+    background-color: #f5f5f5;
+    padding: 20px 0;
+    text-align: center;
+    color: #666;
+}
